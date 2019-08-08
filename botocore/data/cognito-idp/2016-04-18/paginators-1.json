@@ -36,6 +36,7 @@
       "output_token": "NextToken",
       "result_key": "UserPoolClients"
     },
+    
     "ListUserPools": {
       "input_token": "NextToken",
       "limit_key": "MaxResults",
